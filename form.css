@@ -1,0 +1,38 @@
+body {
+    background: linear-gradient(to right, #66037a, #000000); /* soft blue gradient */
+}
+
+.container{
+    width: 350px;
+    margin: 250px auto;
+    background-color: rgb(247, 243, 247);
+    padding: 20px;
+    border-radius: 10px;
+}
+h2{
+    text-align: center;
+
+}
+.form-group{
+    margin-bottom: 10px;
+    padding-right: 10px;
+}
+input{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(190, 188, 188);
+    border: none;
+    color: rgb(0, 0, 0);
+
+}
+.error{
+    color: red;
+    font-size: 15px;
+}
+button{
+    width: 100%;
+    padding: 10px;
+    background-color: rgb(25, 0, 23);
+    border: none;
+    color: white
+}
